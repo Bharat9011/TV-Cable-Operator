@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/new_connection"
+        android:title="New Connection" />
+
+    <item
+        android:id="@+id/payment"
+        android:title="Payment" />
+
+    <item
+        android:id="@+id/status"
+        android:title="status" />
+
+    <item
+        android:id="@+id/report"
+        android:title="Report"/>
+
+    <item
+        android:id="@+id/cust_info"
+        android:title="customer info" />
+
+    <item
+        android:id="@+id/box_info"
+        android:title="boc info" />
+
+    <item
+        android:id="@+id/expencess"
+        android:title="Expencess" />
+
+    <item
+        android:id="@+id/advertisement"
+        android:title="Advertisement" />
+
+    <item
+        android:id="@+id/about_operator"
+        android:title="about operator" />
+
+    <item
+        android:id="@+id/about_app"
+        android:title="About App"
+        />
+
+</menu>

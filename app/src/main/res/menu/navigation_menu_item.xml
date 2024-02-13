@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:title="DashBoard"
+        android:icon="@drawable/dashboard_layout_svgrepo_com"
+        app:showAsAction="always"
+        android:id="@+id/dashboard"
+        />
+
+    <item
+        android:title="Customer"
+        android:icon="@drawable/customer_list_line_svgrepo_com"
+        app:showAsAction="always"
+        android:id="@+id/customer"
+        />
+
+    <item
+        android:title="Report"
+        android:icon="@drawable/report_svgrepo_com"
+        app:showAsAction="always"
+        android:id="@+id/report"
+        />
+
+    <item
+        android:title="DashBoard"
+        android:icon="@drawable/profile_round_1342_svgrepo_com"
+        app:showAsAction="always"
+        android:id="@+id/profile"
+        />
+
+
+
+</menu>
